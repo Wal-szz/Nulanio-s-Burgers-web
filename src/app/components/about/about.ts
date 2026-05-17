@@ -22,7 +22,7 @@ import { NgOptimizedImage } from '@angular/common';
 
           <p>Somos Nulanio's Burgers, un emprendimiento familiar nacido en el <strong>Camino a Coihueco</strong>. Nuestra misión es simple: llevar el verdadero sabor de una burger hecha en casa directamente a tu puerta.</p>
 
-          <p>Cada burger es preparada con ingredientes frescos y seleccionados, siguiendo recetas propias que hemos perfeccionado con el tiempo. No hay congelados, no hay atajos — solo sabor auténtico.</p>
+          <p>Cada burger es preparada con ingredientes frescos y seleccionados. No hay congelados, no hay atajos — solo sabor auténtico.</p>
 
           <ul class="about-features" role="list">
             @for (f of features; track f.label) {

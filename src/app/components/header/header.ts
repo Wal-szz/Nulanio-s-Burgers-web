@@ -32,7 +32,7 @@ import { NgOptimizedImage } from '@angular/common';
               </li>
             }
           </ul>
-          <a href="https://wa.me/56927049053" target="_blank" rel="noopener noreferrer" class="nav-cta" (click)="closeMenu()">
+          <a href="https://wa.me/56927049053?text=Hola%21+Quisiera+hacer+un+pedido+%F0%9F%8D%94" target="_blank" rel="noopener noreferrer" class="nav-cta" (click)="closeMenu()">
             Hacer pedido
           </a>
         </nav>

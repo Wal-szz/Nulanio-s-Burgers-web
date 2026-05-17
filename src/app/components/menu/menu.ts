@@ -72,7 +72,7 @@ type Tab = 'carta' | 'burgers';
                     <div class="card-footer">
                       <span class="price">{{ item.price }}</span>
                       <a
-                        href="https://wa.me/56927049053"
+                        [href]="waLink(item.name)"
                         target="_blank"
                         rel="noopener noreferrer"
                         class="order-btn"
@@ -279,6 +279,11 @@ export class MenuComponent {
 
   setTab(tab: Tab) {
     this.activeTab.set(tab);
+  }
+
+  waLink(burgerName: string): string {
+    const msg = encodeURIComponent(`Hola! Quisiera pedir una ${burgerName} 🍔`);
+    return `https://wa.me/56927049053?text=${msg}`;
   }
 
   items: MenuItem[] = [
