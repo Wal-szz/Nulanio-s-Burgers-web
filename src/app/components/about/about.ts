@@ -20,7 +20,7 @@ import { NgOptimizedImage } from '@angular/common';
           <h2 class="section-title" id="about-title">Nuestra Historia</h2>
           <p class="section-subtitle">Sabor real, hecho con amor</p>
 
-          <p>Somos Nulanio's Burgers, un emprendimiento familiar con base en <strong>Los Espinos, Coihueco</strong>. Nuestra misión es simple: llevar el verdadero sabor de una burger hecha en casa directamente a tu puerta.</p>
+          <p>Somos Nulanio's Burgers, un emprendimiento familiar ubicados en <strong>Los Espinos, Coihueco</strong>. Nuestra misión es simple: llevar el verdadero sabor de una burger hecha en casa directamente a tu puerta.</p>
 
           <p>Cada burger es preparada con ingredientes frescos y seleccionados. No hay congelados, no hay atajos — solo sabor auténtico.</p>
 
