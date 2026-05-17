@@ -16,7 +16,7 @@ import { Component, ChangeDetectionStrategy } from '@angular/core';
           <span class="line"></span>
         </div>
 
-        <p class="hero-tagline">Camino a Coihueco &nbsp;·&nbsp; Delivery</p>
+        <p class="hero-tagline">Los Espinos, Coihueco &nbsp;·&nbsp; Delivery</p>
 
         <h1>
           <span class="h1-top">Sabor</span>

@@ -17,7 +17,7 @@ import { Component, ChangeDetectionStrategy } from '@angular/core';
               <span class="info-icon" aria-hidden="true">📍</span>
               <div>
                 <h3>Ubicación</h3>
-                <p>Camino a Coihueco<br>Delivery disponible</p>
+                <p>Los Espinos, Coihueco<br>Delivery disponible</p>
               </div>
             </div>
 
