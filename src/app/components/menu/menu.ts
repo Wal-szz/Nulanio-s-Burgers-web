@@ -282,7 +282,7 @@ export class MenuComponent {
   }
 
   waLink(burgerName: string): string {
-    const msg = encodeURIComponent(`Hola! Quisiera pedir una ${burgerName} 🍔`);
+    const msg = encodeURIComponent(`¡Hola Nulanio'S Burgers! 🍔 Vi el menú en su web y me gustaría pedir una ${burgerName}.`);
     return `https://wa.me/56927049053?text=${msg}`;
   }
 

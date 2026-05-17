@@ -37,7 +37,7 @@ import { NgOptimizedImage } from '@angular/common';
             </svg>
           </a>
           <a
-            href="https://wa.me/56927049053?text=Hola%21+Quisiera+hacer+un+pedido+%F0%9F%8D%94"
+            href="https://wa.me/56927049053?text=%C2%A1Hola+Nulanio%27S+Burgers%21+%F0%9F%8D%94+Vi+el+men%C3%BA+en+su+web+y+me+gustar%C3%ADa+hacer+un+pedido."
             target="_blank"
             rel="noopener noreferrer"
             aria-label="WhatsApp de Nulanio's Burgers"
